@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.tip h1,h2{
+    text-align: center;
+    color: blueviolet;
+    text-decoration: underline;
+}
+.ammount,.service{
+    text-align: center;
+}
+.ammount input{
+    height: 25px;
+    width: 120px;
+    text-align: center;
+}
+.service select{
+    height: 30px;
+    text-align: center;
+}
+.people{
+    text-align: center;
+}
+.people input{
+    height:25px;
+    text-align: center;
+}
+#calc{
+    text-align: center;
+}
+#butn{
+    width: 150px;
+    height: 30px;
+    cursor: pointer;;
+}
+#total{
+    text-align: center;
+}
